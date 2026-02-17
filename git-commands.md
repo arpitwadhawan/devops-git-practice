@@ -57,3 +57,25 @@ Shows changes between working directory and last commit.
 Example:
 git diff
 
+## Branching
+
+### git branch
+What it does: Lists or creates branches.
+Example:
+git branch feature-1
+
+### git switch
+What it does: Switches between branches.
+Example:
+git switch main
+
+### git switch -c
+What it does: Creates and switches to a new branch.
+Example:
+git switch -c feature-2
+
+### git branch -d
+What it does: Deletes a branch safely.
+Example:
+git branch -d feature-2
+
