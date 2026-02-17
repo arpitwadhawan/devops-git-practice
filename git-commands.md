@@ -47,3 +47,8 @@ Adds changes to the staging area.
 Example:
 git add file.txt
 
+### git commit
+Records staged changes into repository history.
+Example:
+git commit -m "message"
+
