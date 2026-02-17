@@ -57,3 +57,14 @@ Shows changes between working directory and last commit.
 Example:
 git diff
 
+## Branching
+
+### git branch
+Lists or creates branches.
+Example:
+git branch
+
+### git switch
+Switches between branches.
+Example:
+git switch feature-1
