@@ -52,3 +52,8 @@ Records staged changes into repository history.
 Example:
 git commit -m "message"
 
+### git diff
+Shows changes between working directory and last commit.
+Example:
+git diff
+
