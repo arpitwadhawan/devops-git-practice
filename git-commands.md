@@ -42,3 +42,8 @@ Shows commit history.
 Example:
 git log
 
+### git add
+Adds changes to the staging area.
+Example:
+git add file.txt
+
